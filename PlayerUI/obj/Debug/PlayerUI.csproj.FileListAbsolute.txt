@@ -1,0 +1,454 @@
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe.config
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.csprojResolveAssemblyReference.cache
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.Cache
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.pdb
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.exe
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\obj\Debug\PlayerUI.exe
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.pdb
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.AssemblyReference.cache
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.SuggestedBindingRedirects.cache
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.exe
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\JTextBox.dll
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.Odbc.dll
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.OleDb.dll
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.Odbc.xml
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.OleDb.xml
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\BouncyCastle.Crypto.dll
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\GemBox.Spreadsheet.dll
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\BouncyCastle.Crypto.xml
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\GemBox.Spreadsheet.xml
+D:\MSAD\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form4.resources
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.pdb
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\BouncyCastle.Crypto.dll
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\GemBox.Spreadsheet.dll
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.Odbc.dll
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.OleDb.dll
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\BouncyCastle.Crypto.xml
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\GemBox.Spreadsheet.xml
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.Odbc.xml
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.OleDb.xml
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.AssemblyReference.cache
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.SuggestedBindingRedirects.cache
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Acer.resources
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Asus.resources
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form4.resources
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Home.resources
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.HP.resources
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Lenovo.resources
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.MSI.resources
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.exe
+D:\MSAD\new prog\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.Odbc.dll
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.OleDb.dll
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.Odbc.xml
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.OleDb.xml
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.AssemblyReference.cache
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Acer.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Asus.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form4.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Home.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.HP.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Lenovo.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.MSI.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Specification.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\2\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.addtocart.resources
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.Odbc.dll
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.OleDb.dll
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.Odbc.xml
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.OleDb.xml
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Acer.resources
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.addtocart.resources
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Asus.resources
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form4.resources
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Home.resources
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.HP.resources
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Lenovo.resources
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.MSI.resources
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Specification.resources
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\Administrator\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.pdb
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe.config
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.pdb
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\BouncyCastle.Crypto.dll
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\GemBox.Spreadsheet.dll
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.Odbc.dll
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.OleDb.dll
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\BouncyCastle.Crypto.xml
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\GemBox.Spreadsheet.xml
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.Odbc.xml
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.OleDb.xml
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.AssemblyReference.cache
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.SuggestedBindingRedirects.cache
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Acer.resources
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.addtocart.resources
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Asus.resources
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Final_Billing.resources
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form4.resources
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Home.resources
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.HP.resources
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Lenovo.resources
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.MSI.resources
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Specification.resources
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.exe
+E:\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.AssemblyReference.cache
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Acer.resources
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.addtocart.resources
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Asus.resources
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Final_Billing.resources
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form4.resources
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.HP.resources
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Lenovo.resources
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.MSI.resources
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Specification.resources
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.Odbc.dll
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.OleDb.dll
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.Odbc.xml
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.OleDb.xml
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\golde\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.Odbc.dll
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.OleDb.dll
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.Odbc.xml
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.OleDb.xml
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.AssemblyReference.cache
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Acer.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Acer2.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.addtocart.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.addtocartv2.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Asus.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Asus2.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Final_Billing.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form3CS.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form4.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.HP.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.HP2.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Lenovo.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Lenovo2.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.MSI.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.MSI2.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Specification.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.SpecificationCS.resources
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\Steb\Desktop\College- CpE\BSCPE- 3rd Year\Summer Term\CPE340 - Modern System Analysis and Design\coding\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.pdb
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\BouncyCastle.Crypto.dll
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\GemBox.Spreadsheet.dll
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.Odbc.dll
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.OleDb.dll
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\BouncyCastle.Crypto.xml
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\GemBox.Spreadsheet.xml
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.Odbc.xml
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.OleDb.xml
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.AssemblyReference.cache
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.SuggestedBindingRedirects.cache
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Acer.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Acer2.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.addtocart.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.addtocartv2.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Asus.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Asus2.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Final_Billing.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form3CS.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form4.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.HP.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.HP2.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Lenovo.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Lenovo2.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.MSI.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.MSI2.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Specification.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.SpecificationCS.resources
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.exe
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\Interop.WMPLib.dll
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\AxInterop.WMPLib.dll
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Interop.WMPLib.dll
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\AxInterop.WMPLib.dll
+D:\MSAD\new changes in data base\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.Odbc.dll
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.OleDb.dll
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.Odbc.xml
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\System.Data.OleDb.xml
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Acer.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Acer2.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.addtocart.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.addtocartv2.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Asus.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Asus2.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Final_Billing.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form3CS.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form4.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.HP.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.HP2.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Lenovo.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Lenovo2.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.MSI.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.MSI2.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Specification.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.SpecificationCS.resources
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\User\Desktop\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\User\Desktop\edit_connection\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\User\Desktop\edit_connection\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\User\Desktop\edit_connection\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\User\Desktop\edit_connection\PlayerUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\edit_connection\PlayerUI\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\User\Desktop\edit_connection\PlayerUI\bin\Debug\System.Data.Odbc.dll
+C:\Users\User\Desktop\edit_connection\PlayerUI\bin\Debug\System.Data.OleDb.dll
+C:\Users\User\Desktop\edit_connection\PlayerUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\User\Desktop\edit_connection\PlayerUI\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\User\Desktop\edit_connection\PlayerUI\bin\Debug\System.Data.Odbc.xml
+C:\Users\User\Desktop\edit_connection\PlayerUI\bin\Debug\System.Data.OleDb.xml
+C:\Users\User\Desktop\edit_connection\PlayerUI\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\edit_connection\PlayerUI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.Acer.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.Acer2.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.addtocart.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.addtocartv2.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.Asus.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.Asus2.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.Final_Billing.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.Form3CS.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.Form4.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.HP.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.HP2.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.Lenovo.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.Lenovo2.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.MSI.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.MSI2.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.Specification.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.SpecificationCS.resources
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\User\Desktop\edit_connection\PlayerUI\obj\Debug\PlayerUI.createAccount.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.csproj.AssemblyReference.cache
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.csproj.SuggestedBindingRedirects.cache
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\Interop.WMPLib.dll
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\AxInterop.WMPLib.dll
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.csproj.ResolveComReference.cache
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.Acer.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.Acer2.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.addtocart.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.addtocartv2.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.Asus.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.Asus2.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.createAccount.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.Final_Billing.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.Form3CS.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.Form4.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.HP.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.HP2.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.Lenovo.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.Lenovo2.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.MSI.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.MSI2.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.Specification.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.SpecificationCS.resources
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.exe
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\bin\Debug\PlayerUI.exe
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\bin\Debug\PlayerUI.pdb
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\bin\Debug\BouncyCastle.Crypto.dll
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\bin\Debug\GemBox.Spreadsheet.dll
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\bin\Debug\System.Data.Odbc.dll
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\bin\Debug\System.Data.OleDb.dll
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\bin\Debug\BouncyCastle.Crypto.xml
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\bin\Debug\GemBox.Spreadsheet.xml
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\bin\Debug\System.Data.Odbc.xml
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\bin\Debug\System.Data.OleDb.xml
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\bin\Debug\Interop.WMPLib.dll
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\bin\Debug\AxInterop.WMPLib.dll
+D:\MSAD\current new one 25-7-23\edit_connection\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+D:\MSAD\combination\edit_connection\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\MSAD\combination\edit_connection\PlayerUI\bin\Debug\PlayerUI.exe
+D:\MSAD\combination\edit_connection\PlayerUI\bin\Debug\PlayerUI.pdb
+D:\MSAD\combination\edit_connection\PlayerUI\bin\Debug\BouncyCastle.Crypto.dll
+D:\MSAD\combination\edit_connection\PlayerUI\bin\Debug\GemBox.Spreadsheet.dll
+D:\MSAD\combination\edit_connection\PlayerUI\bin\Debug\System.Data.Odbc.dll
+D:\MSAD\combination\edit_connection\PlayerUI\bin\Debug\System.Data.OleDb.dll
+D:\MSAD\combination\edit_connection\PlayerUI\bin\Debug\BouncyCastle.Crypto.xml
+D:\MSAD\combination\edit_connection\PlayerUI\bin\Debug\GemBox.Spreadsheet.xml
+D:\MSAD\combination\edit_connection\PlayerUI\bin\Debug\System.Data.Odbc.xml
+D:\MSAD\combination\edit_connection\PlayerUI\bin\Debug\System.Data.OleDb.xml
+D:\MSAD\combination\edit_connection\PlayerUI\bin\Debug\Interop.WMPLib.dll
+D:\MSAD\combination\edit_connection\PlayerUI\bin\Debug\AxInterop.WMPLib.dll
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.csproj.AssemblyReference.cache
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.csproj.SuggestedBindingRedirects.cache
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\Interop.WMPLib.dll
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\AxInterop.WMPLib.dll
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.csproj.ResolveComReference.cache
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.Acer.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.Acer2.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.addtocart.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.addtocartv2.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.Asus.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.Asus2.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.createAccount.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.Final_Billing.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.Form3CS.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.Form4.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.HP.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.HP2.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.Lenovo.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.Lenovo2.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.MSI.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.MSI2.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.Specification.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.SpecificationCS.resources
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.exe
+D:\MSAD\combination\edit_connection\PlayerUI\obj\Debug\PlayerUI.pdb
